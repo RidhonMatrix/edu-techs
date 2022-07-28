@@ -1,6 +1,18 @@
+/*------------- 
+   navbar start
+--------------- */
 
 
 
+/*------------- 
+   navbar end
+--------------- */
+
+
+
+/*------------- 
+   cover start
+--------------- */
 .cover-img{
     filter: brightness(50%);
 }
@@ -13,4 +25,39 @@
 .cover-button{
     font-size: 2vw;
     font-weight: 700;
+}
+/*------------- 
+   cover end
+--------------- */
+
+.company-img{
+    width: 120px;
+}
+
+/*------------- 
+   footer
+--------------- */
+footer{
+    background: black;
+}
+.footer-heading{
+    color: white;
+}
+.footer-par{
+    color: white;
+}
+.fa-facebook{
+    color:white
+}
+.fa-twitter{
+    margin-left: 10px;
+    color:white
+}
+.fa-linkedin{
+    margin-left: 10px;
+    color:white
+}
+.fa-spotify{
+    margin-left: 10px;
+    color:white
 }
