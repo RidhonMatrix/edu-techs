@@ -1,0 +1,11 @@
+
+
+
+.cover-img{
+    filter: brightness(50%);
+}
+
+.cover-heading{
+    top: 40%;
+    transform: translateY(-50%);
+}
