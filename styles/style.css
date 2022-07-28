@@ -46,6 +46,7 @@
 }
 .join-btn{
     font-weight: 800;
+    color
 }
 
 /* join section end*/
@@ -78,4 +79,8 @@ footer{
 .fa-spotify{
     margin-left: 10px;
     color:white
+}
+
+.nav-margin{
+    margin-left: 20px;
 }
