@@ -5,7 +5,12 @@
     filter: brightness(50%);
 }
 
-.cover-heading{
+.cover-caption{
     top: 40%;
     transform: translateY(-50%);
+}
+
+.cover-button{
+    font-size: 2vw;
+    font-weight: 700;
 }
